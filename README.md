@@ -19,9 +19,10 @@ I have applied two algorithms which are:
 
 ### Results
 1. **Histogram Equalization (HE)**
+   ![Histogram Equalization (HE) Results](HE.png)
    
 1. **Contrast Limited Adaptive Histogram Equalization (CLAHE)**
-
+   ![Contrast Limited Adaptive Histogram Equalization (CLAHE) Results](CLAHE.png)
 
 ### Conclusion
 
